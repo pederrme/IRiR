@@ -52,6 +52,6 @@ A folder containing all files needed in the IRiR-file, and also the subfolder Ha
  
   * _functions_nve.R_ : file with R functions defined for/by NVE. Each function is further described in the script.
   
-  * Test!
+  * Test
   
   
